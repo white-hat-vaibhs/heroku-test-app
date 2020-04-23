@@ -5,9 +5,9 @@ function Header() {
     <header>
       <img
         src= "https://i.ibb.co/tBW7NH1/logo.jpg"
-        alt="Problem?"
+        alt="things bvb"
       />
-      <p>BUB Nibbas</p>
+      <p>This is test app</p>
     </header>
   );
 }
